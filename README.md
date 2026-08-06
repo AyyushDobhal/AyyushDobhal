@@ -2,9 +2,6 @@
 <!--                    AYUSH DOBHAL                           -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img src="Images/banner.png.png" alt="Ayush Dobhal Banner" width="100%">
-</p>
 
 <h1 align="center">AYUSH DOBHAL</h1>
 
