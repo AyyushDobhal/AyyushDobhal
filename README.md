@@ -1,105 +1,207 @@
-<h1 align="center">Hi 👋, I'm Ayush Dobhal</h1>
-
-<h3 align="center">
-Aspiring Data Analyst | Python • SQL • Power BI
-</h3>
+<!-- ========================================================= -->
+<!--                    AYUSH DOBHAL                           -->
+<!-- ========================================================= -->
 
 <p align="center">
-Turning raw data into meaningful business insights.
+  <img src="images/banner.png" alt="Ayush Dobhal Banner" width="100%">
+</p>
+
+<h1 align="center">AYUSH DOBHAL</h1>
+
+<h3 align="center">DATA ANALYST</h3>
+
+<p align="center">
+<b>Turning Data into Better Business Decisions.</b>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Business+Analytics;Building+Real-World+Analytics+Projects;Data+Storytelling;Always+Learning+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayush-dobhal-730736310/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AyyushDobhal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 📊 About Me
 
-- 📊 Aspiring **Data Analyst**
-- 🌱 Currently working on **HR Analytics & Employee Attrition Analysis**
-- 💻 Building end-to-end analytics projects using Python, SQL and Power BI
-- 📈 Interested in Business Analytics, Data Visualization and Problem Solving
-- 🚀 Learning something new every day
+I'm a Data Analyst focused on transforming raw data into meaningful business insights.
+
+I enjoy understanding how businesses operate, exploring datasets, identifying trends, and helping answer important business questions through data.
+
+My projects combine **Python, SQL, Power BI, Excel, and data visualization** to solve practical business problems and communicate findings clearly.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+
+</p>
 
 ### Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
 
 ### Visualization
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
----
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-## 🚀 Featured Projects
+</p>
 
-📈 Retail Sales Analysis
+### Tools
 
-- Business KPI Analysis
-- Customer Behaviour
-- Revenue Trends
+<p>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-🛒 Ecommerce Customer Behaviour Analysis
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-- Customer Segmentation
-- Purchase Behaviour
-- Sales Insights
-
----
-
-👥 HR Analytics & Employee Attrition
-
-- Employee Attrition Analysis
-- HR Metrics
-- Business Recommendations
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyyushDobhal&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyushDobhal&layout=compact&theme=github_dark"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📁 Business Case Studies
+
+## 👥 HR Analytics & Employee Attrition
+
+- Analyze employee attrition trends
+- Discover key factors influencing employee turnover
+- Build interactive HR dashboards
+- Deliver actionable business recommendations
+
+**Tools:** Python • SQL • Power BI
+
+---
+
+## 📈 Retail Sales Analysis
+
+- Analyze sales performance
+- Track KPIs
+- Study customer purchasing patterns
+- Recommend business improvements
+
+**Tools:** Python • Power BI
+
+---
+
+## 🛒 Ecommerce Customer Behaviour Analysis
+
+- Customer segmentation
+- Purchase behaviour analysis
+- Customer insights
+- Data storytelling
+
+**Tools:** Python • SQL
+
+---
+
+## 🗄 SQL Business Analytics
+
+- Solve real-world business problems
+- Advanced SQL queries
+- Reporting
+- Data exploration
+
+**Tools:** SQL
+
+---
+
+# 🎯 Current Focus
+
+- 👥 HR Analytics & Employee Attrition
+- 📊 Power BI Dashboard Development
+- 📈 Business Storytelling
+- 🤖 Predictive Analytics
+- 🚀 Building a strong Data Analytics portfolio
+
+---
+
+# 💭 My Approach
+
+> I believe data creates value only when it leads to better business decisions.
+
+Every project starts with understanding the business problem, followed by cleaning and preparing the data, exploring patterns, uncovering insights, and ending with practical recommendations.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AyyushDobhal&theme=github-dark"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyyushDobhal&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyushDobhal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AyyushDobhal&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AyyushDobhal)
+<a href="https://www.linkedin.com/in/ayush-dobhal-730736310/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/AyyushDobhal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+<i>"Every dataset tells a story. My goal is to uncover it."</i>
+
+</p>
