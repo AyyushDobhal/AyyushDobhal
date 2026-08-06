@@ -35,7 +35,7 @@
 
 ---
 
-# 📊 About Me
+# 🥷 About Me
 
 I'm a Data Analyst focused on transforming raw data into meaningful business insights.
 
@@ -45,7 +45,7 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 ---
 
-# 🛠 Tech Stack
+# ⚙ Tech Stack
 
 ### Programming
 
@@ -172,6 +172,6 @@ Every project starts with understanding the business problem, followed by cleani
 
 <p align="center">
 
-<i>"Every dataset tells a story. My goal is to uncover it."</i>
+<i>"Every dataset tells a story. My goal is to uncover it.🔎"</i>
 
 </p>
