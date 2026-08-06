@@ -172,6 +172,6 @@ Every project starts with understanding the business problem, followed by cleani
 
 <p align="center">
 
-<i>"Every dataset tells a story. My goal is to uncover it.🔎"</i>
+<i>"Every dataset tells a story. My goal is to uncover it."</i>
 
 </p>
