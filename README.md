@@ -126,20 +126,10 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 - Customer insights
 - Data storytelling
 
-**Tools:** Python • SQL
+**Tools:** SQL • Power BI
 
 ---
 
-## 🗄 SQL Business Analytics
-
-- Solve real-world business problems
-- Advanced SQL queries
-- Reporting
-- Data exploration
-
-**Tools:** SQL
-
----
 
 # 🎯 Current Focus
 
