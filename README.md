@@ -149,23 +149,6 @@ Every project starts with understanding the business problem, followed by cleani
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyyushDobhal&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyyushDobhal&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyyushDobhal&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🤝 Let's Connect
 
