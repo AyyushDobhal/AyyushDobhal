@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="images/banner.png.png" alt="Ayush Dobhal Banner" width="100%">
+  <img src="Images/banner.png.png" alt="Ayush Dobhal Banner" width="100%">
 </p>
 
 <h1 align="center">AYUSH DOBHAL</h1>
