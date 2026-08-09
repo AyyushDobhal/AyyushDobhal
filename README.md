@@ -142,6 +142,34 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <i>Building, learning, and analyzing one project at a time.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=AyyushDobhal&theme=tokyonight"
+    width="700"
+    alt="Ayush Dobhal GitHub Statistics"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=AyyushDobhal&theme=tokyonight&hide_border=true"
+    width="700"
+    alt="Ayush Dobhal GitHub Streak"
+  />
+</p>
+
+---
+
 # 💭 My Approach
 
 > I believe data creates value only when it leads to better business decisions.
