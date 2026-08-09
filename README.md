@@ -121,7 +121,7 @@ Understanding employee attrition, identifying factors associated with turnover, 
 </p>
 
 <p>
-<a href="https://github.com/AyyushDobhal/HR-Analytics-Employee-Attrition">
+<a href="https://github.com/AyyushDobhal/HR-Analytics-Employee-Attrition-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -142,7 +142,7 @@ Analyzing sales performance, customer purchasing patterns, and key business KPIs
 </p>
 
 <p>
-<a href="https://github.com/AyyushDobhal/Retail-Sales-Analysis">
+<a href="https://github.com/AyyushDobhal/Retail-Sales-Analysis-Python">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -167,7 +167,7 @@ Analyzing customer purchasing behaviour to understand customer segments, repeat 
 </p>
 
 <p>
-<a href="https://github.com/AyyushDobhal/Ecommerce-Customer-Behaviour">
+<a href="https://github.com/AyyushDobhal/ECommerce-Customer-Behavior-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -176,18 +176,20 @@ Analyzing customer purchasing behaviour to understand customer segments, repeat 
 
 <td width="50%" valign="top">
 
-<h3>🗄️ SQL Business Analytics</h3>
+<h3>⚙️ Operations SLA Tracker</h3>
 
 <p>
-Solving practical business questions using SQL, including customer analysis, KPIs, trends, and advanced querying techniques.
+An Excel-based Operations MIS dashboard built to track ticket volumes, SLA performance, turnaround time, priorities, agents, and regional performance.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIS-0A192F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dashboard-3B82F6?style=flat-square"/>
 </p>
 
 <p>
-<a href="https://github.com/AyyushDobhal/SQL-Business-Analytics">
+<a href="https://github.com/AyyushDobhal/Operations-SLA-Tracker">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
