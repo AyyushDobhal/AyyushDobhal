@@ -120,7 +120,7 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 ---
 
-## 🛒 [Ecommerce Customer Behaviour Analysis] (./AyyushDobhal/ECommerce-Customer-Behavior-Analysis)
+## 🛒 [Ecommerce Customer Behaviour Analysis](./AyyushDobhal/ECommerce-Customer-Behavior-Analysis)
 
 - Customer segmentation
 - Purchase behaviour analysis
