@@ -108,7 +108,8 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 ---
 
-## 📈 [Retail Sales Analysis] (AyyushDobhal/Retail-Sales-Analysis-Python)
+## 📈 [Retail Sales Analysis](./AyyushDobhal/Retail-Sales-Analysis-Python)
+
 
 - Analyze sales performance
 - Track KPIs
@@ -119,7 +120,7 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 ---
 
-## 🛒 [Ecommerce Customer Behaviour Analysis] (https://github.com/AyyushDobhal/ECommerce-Customer-Behavior-Analysis)
+## 🛒 [Ecommerce Customer Behaviour Analysis] (./AyyushDobhal/ECommerce-Customer-Behavior-Analysis)
 
 - Customer segmentation
 - Purchase behaviour analysis
