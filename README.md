@@ -97,48 +97,105 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 # 📁 Business Case Studies
 
-## 👥 HR Analytics & Employee Attrition
+<p align="center">
+  <i>Real-world analytics projects built around business questions, data, and decisions.</i>
+</p>
 
-- Analyze employee attrition trends
-- Discover key factors influencing employee turnover
-- Build interactive HR dashboards
-- Deliver actionable business recommendations
+<br>
 
-**Tools:** Python • SQL • Power BI
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 📈 Retail Sales Analysis
+<h3>👥 HR Analytics & Employee Attrition</h3>
 
+<p>
+Understanding employee attrition, identifying factors associated with turnover, and finding areas where retention efforts can be improved.
+</p>
 
-- Analyze sales performance
-- Track KPIs
-- Study customer purchasing patterns
-- Recommend business improvements
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
-**Tools:** Python • Power BI
+<p>
+<a href="https://github.com/AyyushDobhal/HR-Analytics-Employee-Attrition">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
----
+</td>
 
-## 🛒 Ecommerce Customer Behaviour Analysis
+<td width="50%" valign="top">
 
-- Customer segmentation
-- Purchase behaviour analysis
-- Customer insights
-- Data storytelling
+<h3>📈 Retail Sales Analysis</h3>
 
-**Tools:** SQL • Power BI
+<p>
+Analyzing sales performance, customer purchasing patterns, and key business KPIs to identify trends and opportunities.
+</p>
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
+<p>
+<a href="https://github.com/AyyushDobhal/Retail-Sales-Analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-# 🎯 Current Focus
+</td>
 
-- 👥 HR Analytics & Employee Attrition
-- 📊 Power BI Dashboard Development
-- 📈 Business Storytelling
-- 🤖 Predictive Analytics
-- 🚀 Building a strong Data Analytics portfolio
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 Ecommerce Customer Behaviour</h3>
+
+<p>
+Analyzing customer purchasing behaviour to understand customer segments, repeat purchases, product preferences, and customer value.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://github.com/AyyushDobhal/Ecommerce-Customer-Behaviour">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗄️ SQL Business Analytics</h3>
+
+<p>
+Solving practical business questions using SQL, including customer analysis, KPIs, trends, and advanced querying techniques.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<p>
+<a href="https://github.com/AyyushDobhal/SQL-Business-Analytics">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
