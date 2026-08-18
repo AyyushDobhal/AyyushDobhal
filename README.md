@@ -108,20 +108,19 @@ My projects combine **Python, SQL, Power BI, Excel, and data visualization** to 
 
 <td width="50%" valign="top">
 
-<h3>👥 HR Analytics & Employee Attrition</h3>
+<h3>👥 Supply-Chain-Delivery-Analysis</h3>
 
 <p>
-Understanding employee attrition, identifying factors associated with turnover, and finding areas where retention efforts can be improved.
+Power BI analysis of supply chain and delivery performance, covering order trends, shipping efficiency, late deliveries, geographic performance, and operational insights.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 <p>
-<a href="https://github.com/AyyushDobhal/HR-Analytics-Employee-Attrition-Analysis">
+<a href="https://github.com/AyyushDobhal/Supply-Chain-Delivery-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
