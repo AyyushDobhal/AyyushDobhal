@@ -129,7 +129,28 @@ Power BI analysis of supply chain and delivery performance, covering order trend
 
 <td width="50%" valign="top">
 
-<h3>📈 Retail Sales Analysis</h3>
+<h3>🛒 Ecommerce-Customer-Behavior-Analysis</h3>
+
+<p>
+Analyzing customer purchasing behaviour to understand customer segments, repeat purchases, product preferences, and customer value.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://github.com/AyyushDobhal/ECommerce-Customer-Behavior-Analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 Retail-Sales-Analysis</h3>
 
 <p>
 Analyzing sales performance, customer purchasing patterns, and key business KPIs to identify trends and opportunities.
@@ -154,28 +175,7 @@ Analyzing sales performance, customer purchasing patterns, and key business KPIs
 
 <td width="50%" valign="top">
 
-<h3>🛒 Ecommerce Customer Behaviour</h3>
-
-<p>
-Analyzing customer purchasing behaviour to understand customer segments, repeat purchases, product preferences, and customer value.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
-<p>
-<a href="https://github.com/AyyushDobhal/ECommerce-Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Operations SLA Tracker</h3>
+<h3>⚙️ Operations-SLA-Tracker</h3>
 
 <p>
 An Excel-based Operations MIS dashboard built to track ticket volumes, SLA performance, turnaround time, priorities, agents, and regional performance.
