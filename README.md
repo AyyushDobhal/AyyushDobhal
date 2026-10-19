@@ -1,264 +1,61 @@
-<!-- ========================================================= -->
-<!--                    AYUSH DOBHAL                           -->
-<!-- ========================================================= -->
+# Hi, I'm Ayush Dobhal 👋
 
+### Aspiring Tech Professional | Software Development | Data Analytics | AI & Automation
 
-<h1 align="center">AYUSH DOBHAL</h1>
+I'm a BCA graduate from DIT University, Dehradun, interested in building practical technology solutions, working with data, and developing applications that solve real-world problems.
 
-<h3 align="center">DATA ANALYST</h3>
+I enjoy working across different areas of technology, from writing Python scripts and querying databases to creating interactive dashboards and building web applications. I'm always learning new tools, improving my technical skills, and turning ideas into working projects.
 
-<p align="center">
-<b>Turning Data into Better Business Decisions.</b>
-</p>
+## 🚀 What I Work On
 
-<p align="center">
+- **Data Analytics & Business Intelligence:** Data cleaning, SQL analysis, Excel reporting, and Power BI dashboards.
+- **Software Development:** Python programming, web applications, APIs, and database-driven solutions.
+- **AI & Machine Learning:** Predictive modelling, computer vision, and practical ML applications.
+- **Business Technology & Automation:** Reporting workflows, data management, and process improvement.
+- **Creative Technology:** Visual design, content creation, and video editing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Business+Analytics;Building+Real-World+Analytics+Projects;Data+Storytelling;Always+Learning+Something+New"/>
+## 🛠️ Technologies & Tools
 
-</p>
+**Programming:** Python, SQL, JavaScript  
+**Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, DAX  
+**Development:** React, Node.js, Express.js, REST APIs  
+**Databases:** SQL Server, PostgreSQL  
+**AI & Machine Learning:** Scikit-learn, Keras, OpenCV  
+**Tools:** Git, GitHub, VS Code, Canva, DaVinci Resolve
 
-<p align="center">
+## 📌 Featured Projects
 
-<a href="https://www.linkedin.com/in/ayush-dobhal-730736310/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- **Supply Chain & Inventory Performance Dashboard**  
+  Power BI dashboard for analysing delivery performance, lead times, late orders, and inventory-related metrics.
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- **HR Analytics & Employee Attrition**  
+  Data analysis project using SQL Server, Python, and Power BI to examine employee attrition and workforce trends.
 
-<a href="https://github.com/AyyushDobhal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- **Retail Sales Analysis**  
+  SQL and Python project focused on sales performance, customer behaviour, and business reporting.
 
-</p>
+- **Driver Drowsiness Detection**  
+  Computer vision project using Python, OpenCV, Haar Cascades, and a deep learning model.
 
----
+- **House Price Prediction**  
+  Machine learning application for estimating property prices using housing data.
 
-# 🥷 About Me
+Explore my repositories for project code, documentation, and implementation details.
 
-I'm a Data Analyst focused on transforming raw data into meaningful business insights.
+## 🎯 Currently Working On
 
-I enjoy understanding how businesses operate, exploring datasets, identifying trends, and helping answer important business questions through data.
+- Improving my software development and data analysis skills.
+- Building practical projects with clear documentation.
+- Learning more about APIs, automation, and AI-powered applications.
+- Preparing for entry-level opportunities where I can learn, contribute, and grow.
 
-My projects combine **Python, SQL, Power BI, Excel, and data visualization** to solve practical business problems and communicate findings clearly.
+## 🤝 Open To
 
----
+Entry-level opportunities, internships, and collaborative projects in software development, data analytics, business intelligence, AI applications, automation, and related technology roles.
 
-# ⚙ Tech Stack
+## 📫 Connect With Me
 
-### Programming
+- **LinkedIn:** https://linkedin.com/in/ayush-dobhal-730736310/
+- **GitHub:** Explore my repositories below.
 
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-
-</p>
-
-### Data Analysis
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
-
-### Visualization
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
-
----
-
-# 📁 Business Case Studies
-
-<p align="center">
-  <i>Real-world analytics projects built around business questions, data, and decisions.</i>
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>👥 Supply-Chain-Delivery-Analysis</h3>
-
-<p>
-Power BI analysis of supply chain and delivery performance, covering order trends, shipping efficiency, late deliveries, geographic performance, and operational insights.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-<p>
-<a href="https://github.com/AyyushDobhal/Supply-Chain-Delivery-Analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📈 Retail-Sales-Analysis</h3>
-
-<p>
-Analyzing sales performance, customer purchasing patterns, and key business KPIs to identify trends and opportunities.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
-<p>
-<a href="https://github.com/AyyushDobhal/Retail-Sales-Analysis-Python">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-  
-<td width="50%" valign="top">
-
-<h3>🛒 Ecommerce-Customer-Behavior-Analysis</h3>
-
-<p>
-Analyzing customer purchasing behaviour to understand customer segments, repeat purchases, product preferences, and customer value.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
-<p>
-<a href="https://github.com/AyyushDobhal/ECommerce-Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Operations-SLA-Tracker</h3>
-
-<p>
-An Excel-based Operations MIS dashboard built to track ticket volumes, SLA performance, turnaround time, priorities, agents, and regional performance.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MIS-0A192F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dashboard-3B82F6?style=flat-square"/>
-</p>
-
-<p>
-<a href="https://github.com/AyyushDobhal/Operations-SLA-Tracker">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <i>Building, learning, and analyzing one project at a time.</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=AyyushDobhal&theme=tokyonight"
-    width="700"
-    alt="Ayush Dobhal GitHub Statistics"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AyyushDobhal&theme=tokyonight&hide_border=true"
-    width="700"
-    alt="Ayush Dobhal GitHub Streak"
-  />
-</p>
-
----
-
-# 💭 My Approach
-
-> I believe data creates value only when it leads to better business decisions.
-
-Every project starts with understanding the business problem, followed by cleaning and preparing the data, exploring patterns, uncovering insights, and ending with practical recommendations.
-
----
-
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ayush-dobhal-730736310/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/AyyushDobhal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>"Every dataset tells a story. My goal is to uncover it."</i>
-
-</p>
+*I believe in learning by building, documenting what I learn, and improving with every project.*
